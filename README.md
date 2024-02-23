@@ -17,4 +17,4 @@ titles using some common machine learning methods such as Support Vector
 Machine, Naive Bayes, Logistic Regression, Random Forest, etc. And also we use 
 Deep Learning classifiers such as Convolution Neural Networks, Long Short-Term 
 Memory, Recurrent Neural Networks, etc to compare for better performance 
-analysis
+analysis.
