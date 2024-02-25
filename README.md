@@ -14,7 +14,7 @@ natural language processing (NLP) based analysis approach for YouTube
 motivational videos. This classification helps in discovering intrinsic and extrinsic 
 videos. After classifying the videos, we do a performance comparison on those 
 titles using some common machine learning methods such as Support Vector 
-Machine, Naive Bayes, Logistic Regression, Random Forest, etc. And also we use 
-Deep Learning classifiers such as Convolution Neural Networks, Long Short-Term 
-Memory, Recurrent Neural Networks, etc to compare for better performance 
+Machine(SVM), Naive Bayes(NB), Logistic Regression(LR), Random Forest(RF), etc. And also we use 
+Deep Learning classifiers such as Convolution Neural Networks(CNN), Long Short-Term 
+Memory(LSTM), Recurrent Neural Networks(RNN), etc to compare for better performance 
 analysis.
