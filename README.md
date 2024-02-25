@@ -16,5 +16,5 @@ videos. After classifying the videos, we do a performance comparison on those
 titles using some common machine learning methods such as Support Vector 
 Machine(SVM), Naive Bayes(NB), Logistic Regression(LR), Random Forest(RF), etc. And also we use 
 Deep Learning classifiers such as Convolution Neural Networks(CNN), Long Short-Term 
-Memory(LSTM), Recurrent Neural Networks(RNN), etc to compare for better performance 
+Memory(LSTM), Recurrent Neural Networks(RN), etc to compare for better performance 
 analysis.
