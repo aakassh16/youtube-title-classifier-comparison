@@ -12,7 +12,7 @@ within the individual, such as doing a complicated crossword puzzle purely for
 the gratification of solving a problem. To overcome this problem, we present a 
 natural language processing (NLP) based analysis approach for YouTube 
 motivational videos. This classification helps in discovering intrinsic and extrinsic 
-videos. After classifyinthe videos, we do a performance comparison on those 
+videos. After classifying the videos, we do a performance comparison on those 
 titles using some common machine learning methods such as Support Vector 
 Machine(SVM), Naive Bayes(NB), Logistic Regression(LR), Random Forest(RF), etc. And also we use 
 Deep Learning classifiers such as Convolution Neural Networks(CNN), Long Short-Term 
